@@ -41,6 +41,7 @@ h1{
     letter-spacing: 0.25px;
 }
 span{
+    font-size: 36px;
     font-weight: var(--font-weight-600);
 }
 .description{
@@ -80,9 +81,6 @@ span{
 .box h2{
     font-size: var(--font-size-20);
     font-weight: var(--font-weight-600); 
-}
-span{
-    font-size: 20px;
 }
 .box p{
     font-size: var(--font-size-13);
@@ -132,6 +130,9 @@ span{
     h1{
         line-height: 36px;
         font-size: var(--font-size-24);
+    }
+    span{
+        font-size: 24px;
     }
     .description{
         width: auto;
